@@ -752,3 +752,6 @@ django.template.base.TemplateSyntaxError: Could not parse the remainder: '‘main’
 [2016-11-01 17:31:37] WARNING [py.warnings.<module>:9] C:\Program Files (x86)\JetBrains\PyCharm 2016.2.3\helpers\pydev\_pydev_bundle\pydev_import_hook.py:21: RemovedInDjango19Warning: The utilities in django.db.models.loading are deprecated in favor of the new application loading system.
   module = self._system_import(name, *args, **kwargs)
 
+[2016-11-02 06:11:16] WARNING [py.warnings.<module>:9] C:\Program Files (x86)\JetBrains\PyCharm 2016.2.3\helpers\pydev\_pydev_bundle\pydev_import_hook.py:21: RemovedInDjango19Warning: The utilities in django.db.models.loading are deprecated in favor of the new application loading system.
+  module = self._system_import(name, *args, **kwargs)
+
